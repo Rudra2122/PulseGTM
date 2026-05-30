@@ -2,7 +2,7 @@
 
 > A Clay-native GTM automation platform that monitors customer health, detects churn signals early, identifies expansion opportunities, and generates AI-powered QBR briefs built for Customer Success teams at high-growth SaaS companies.
 
-**[▶ Watch 2-min demo](docs/Demo-video.mp4)** · **[LinkedIn](https://www.linkedin.com/in/rudrabrahmbhatt)**
+**[▶ Watch 2-min demo](docs/Demo-video.mp4)** 
 
 ---
 
@@ -288,10 +288,10 @@ Every product decision the 5 signals, the Slack format, the JSON brief structure
 
 ## Author
 
-**Rudra Brahmbhatt** · M.S. Computer Science, Texas State University (GPA 3.83)
+**Rudra Brahmbhatt** 
 
 I build backend systems that hold up under real load. SentinelX: 300+ RPS, p99 under 200ms. SLAForge: 44 to 558 req/s, zero SLA breaches. PulseGTM brings that same instinct to GTM engineering: Clay pipelines, Python backend, AI automation, customer-facing product.
 
 Open to GTM Engineer, RevOps Engineer, and ML Infrastructure roles in the United States.
 
-[LinkedIn](https://www.linkedin.com/in/rudrabrahmbhatt) · [GitHub](https://github.com/rudrabrahmbhatt) · [Demo](YOUR_LOOM_OR_GDRIVE_LINK)
+[LinkedIn]((https://www.linkedin.com/in/rudra2122/)) 
