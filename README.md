@@ -2,7 +2,7 @@
 
 > A Clay-native GTM automation platform that monitors customer health, detects churn signals early, identifies expansion opportunities, and generates AI-powered QBR briefs built for Customer Success teams at high-growth SaaS companies.
 
-**[▶ Watch 2-min demo](docs/Demo-video.mp4)** 
+**[▶ Watch 2-min demo](https://drive.google.com/file/d/17hRflsUzRs8u7lKuDKqKFslKfrNBROFn/view?usp=sharing)**
 
 ---
 
