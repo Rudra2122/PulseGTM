@@ -292,6 +292,6 @@ Every product decision the 5 signals, the Slack format, the JSON brief structure
 
 I build backend systems that hold up under real load. SentinelX: 300+ RPS, p99 under 200ms. SLAForge: 44 to 558 req/s, zero SLA breaches. PulseGTM brings that same instinct to GTM engineering: Clay pipelines, Python backend, AI automation, customer-facing product.
 
-Open to GTM Engineer, RevOps Engineer, and ML Infrastructure roles in the United States.
+Open to GTM Engineer and ML Infrastructure roles in the United States.
 
-[LinkedIn]([https://www.linkedin.com/in/rudra2122/]) 
+[LinkedIn](https://www.linkedin.com/in/rudra2122) 
