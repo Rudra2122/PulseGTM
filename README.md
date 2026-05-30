@@ -294,4 +294,4 @@ I build backend systems that hold up under real load. SentinelX: 300+ RPS, p99 u
 
 Open to GTM Engineer, RevOps Engineer, and ML Infrastructure roles in the United States.
 
-[LinkedIn]((https://www.linkedin.com/in/rudra2122/)) 
+[LinkedIn]([https://www.linkedin.com/in/rudra2122/]) 
